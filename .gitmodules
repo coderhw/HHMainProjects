@@ -1,0 +1,3 @@
+[submodule "HHSubPorject"]
+	path = HHSubPorject
+	url = https://github.com/coderhw/HHSubPorject.git
